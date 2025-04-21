@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/bin/Debug/net8.0
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/Logs/applog-20250417.txt
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/Logs/applog-20250418.txt
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/Logs/applog-20250419.txt
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/Logs/applog-20250420.txt
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/Logs/applog-20250421.txt
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Api/obj
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Application/bin/Debug/net8.0
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Application/obj
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Domain/bin/Debug/net8.0
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Domain/obj
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Infrastructure/bin/Debug/net8.0
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Infrastructure/obj
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Test/bin
+/Backend_EmployeeCafeManagement/EmployeeCafeManagement.Test/obj
