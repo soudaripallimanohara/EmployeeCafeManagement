@@ -1,6 +1,0 @@
-@EmployeeCafeManagement.Api_HostAddress = http://localhost:5075
-
-GET {{EmployeeCafeManagement.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
