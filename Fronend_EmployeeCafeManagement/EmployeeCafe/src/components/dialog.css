@@ -1,0 +1,21 @@
+.custom-dialog {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  background: linear-gradient(to right, #e0f7fa, #fff);
+  border: 2px solid #0097a7;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+.dialog-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.dialog-footer {
+  margin-top: 20px;
+  text-align: right;
+}
